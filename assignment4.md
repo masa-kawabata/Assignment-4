@@ -9,18 +9,18 @@
 All of the three baseball players that I listed were born in Japan and currently play "Major League Baseball" in the United States.
 All three players were considered the best Japanese baseball player of all time, they are well respected in the country of Japan. 
 
-The first player, Ichiro Suzuki, currently plays for the Seattle Mariners and is considered the best hitter in the World. 
+The first player, Ichiro Suzuki, currently plays for the Seattle Mariners and is considered the best hitter in the World. He was the First Japanese Baseball Player to play in the United States.
 He has more than **3000 hits** in the MLB, which he is already predicted to be joining the Baseball Hall of the Fame in the future. 
 
-The second player, Yu Darvish, is currently at Chicago Cubs, expected to be an ace pitcher soon. 
+The second player, Yu Darvish, is currently at Chicago Cubs, expected to be an ace pitcher soon. He was the second player who has a successful baseball career in the MLB.
 He had suffered from multiple injuries and had numerous surgeries in order to get back in the game.
 
-The last player, Shohei Ohtani, is the first Japanese player to both hit and pitch. 
+The last player, Shohei Ohtani, is the first Japanese player to both hit and pitch. He is the first baseball player in years to both hit and pitch at the same time in MLB. 
 The last time some player pitched a game and hit homeruns was the legendary player, Babe Ruth.
 
 ### Ichiro Suzuki 
 
-_Ichiro Suzuki_ (鈴木 一朗 Suzuki Ichirō, born October 22, 1973), often referred to mononymously as Ichiro (イチロー Ichirō), is a Japanese former professional baseball outfielder. With 27 seasons combined in top-level professional leagues, he spent the bulk of his career with two teams: nine seasons with the Orix Blue Wave of Nippon Professional Baseball (NPB) in Japan, where he began his career, and 12 with the Seattle Mariners of Major League Baseball (MLB) in the United States. After playing for the Mariners, he played two and a half seasons in MLB with the New York Yankees before signing with the Miami Marlins. Ichiro played three seasons with the Marlins before returning to the Mariners in 2018. Ichiro established a number of batting records, including MLB's single-season record for hits with 262. He achieved 10 consecutive 200-hit seasons, the longest streak by any player in history. Between his major league career in both Japan and the United States, Ichiro has the most hits by any player in top-tier professional leagues. He also has recorded the most hits of all Japanese born players in MLB history.
+_Ichiro Suzuki_ (鈴木 一朗 Suzuki Ichirō, born October 22, 1973), often referred to mononymously as Ichiro (イチロー Ichirō), is a Japanese former professional baseball outfielder. With 27 seasons combined in top-level professional leagues, he spent the bulk of his career with two teams: nine seasons with the Orix Blue Wave of Nippon Professional Baseball (NPB) in Japan, where he began his career, and 12 with the Seattle Mariners of Major League Baseball (MLB) in the United States. He was the first Japanese hitter to arrive in the MLB. After playing for the Mariners, he played two and a half seasons in MLB with the New York Yankees before signing with the Miami Marlins. Ichiro played three seasons with the Marlins before returning to the Mariners in 2018. Ichiro established a number of batting records, including MLB's single-season record for hits with 262. He achieved 10 consecutive 200-hit seasons, the longest streak by any player in history. Between his major league career in both Japan and the United States, Ichiro has the most hits by any player in top-tier professional leagues. He also has recorded the most hits of all Japanese born players in MLB history.
 
 In his combined playing time in NPB and MLB, Ichiro received 17 consecutive selections both as an All-Star and Gold Glove winner, won nine league batting titles and was named Most Valuable Player (MVP) four times. While playing in NPB, he won seven consecutive batting titles and three consecutive Pacific League MVP Awards. In 2001, Ichiro became the first Japanese-born position player to be posted and signed to an MLB club.[1] He led the American League (AL) in batting average and stolen bases en route to being named AL Rookie of the Year and AL MVP.
 
