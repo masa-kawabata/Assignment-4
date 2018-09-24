@@ -9,6 +9,8 @@
 All of the three baseball players that I listed were born in Japan and currently play "Major League Baseball" in the United States.
 All three players were considered the best Japanese baseball player of all time, they are well respected in the country of Japan. 
 
+The following order is by when did the player arrive to play in the MLB. 
+
 The first player, Ichiro Suzuki, currently plays for the Seattle Mariners and is considered the best hitter in the World. He was the First Japanese Baseball Player to play in the United States.
 He has more than **3000 hits** in the MLB, which he is already predicted to be joining the Baseball Hall of the Fame in the future. 
 
@@ -66,7 +68,7 @@ Prior to the 2006 season Darvish's "go-to" pitch was a screwball, and he tends t
 
 ### Shohei Ohtani 
 
-_Shōhei Ohtani_ (大谷 翔平 Ohtani Shōhei, born July 5, 1994) is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Angels of Major League Baseball (MLB). He previously played for the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball's (NPB) Pacific League. Ohtani was the first pick of the Fighters in the 2012 draft. He has officially recorded the fastest pitch by a Japanese pitcher and in NPB history at 165 kilometres per hour (102.5 mph).
+_Shōhei Ohtani_ (大谷 翔平 Ohtani Shōhei, born July 5, 1994) is a Japanese professional baseball pitcher and hitter for the Los Angeles Angels of Major League Baseball (MLB). He previously played for the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball's (NPB) Pacific League. Ohtani was the first pick of the Fighters in the 2012 draft. He has officially recorded the fastest pitch by a Japanese pitcher and in NPB history at 165 kilometres per hour (102.5 mph).
 
 #### 2018 Season 
 
@@ -87,6 +89,8 @@ Ohtani is a 6 feet 4 inches (1.93 m), 203 pounds (92 kg) right-handed starting p
 ##### Hitting and Fielding 
 
 Ohtani is a left-handed batter. He is a designated hitter and occasional outfielder known for being able to hit with home run power.[49] Scouts have timed Ohtani running from the batter’s box to first base in as little as 3.8 seconds.[50]
+
+### References  
 
 Ichiro Suzuki [link](https://en.wikipedia.org/wiki/Ichiro_Suzuki#Playing_style)
 
